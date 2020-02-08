@@ -11,10 +11,14 @@ You have the list:
 You have the set
 
 {a,b,c}
+
 {a,b,c,d}
+
 {a,d,c,d}
 
 The result of serching:
 {a,b,c} - full match
+
 {a,b,c,d} - 100 % match, incomplete matching
+
 {a,d,c,d} - 66% mach, incomplete matching
